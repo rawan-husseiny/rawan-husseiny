@@ -1,18 +1,23 @@
 <div align="center" width="50">
 
-<!-- <h1>👋 Hello there! I'm Rawan Husseiny</h1> -->
-<!-- <h1 style="border-bottom: none;">👋 Hello there! I'm Rawan Husseiny</h1>
-
-<h3>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</h3> -->
-
-<p>
-  <font size="6"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
+<!-- <p>
+  <font size="32"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
 </p>
 
 <p>
   <b>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</b>
 </p>
+ -->
 
+ <div style="font-size: 32px; font-weight: bold;">
+  👋 Hello there! I'm Rawan Husseiny
+</div>
+
+<br>
+
+<div style="font-size: 20px; font-weight: bold;">
+  🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer
+</div>
 
 
 </div>
