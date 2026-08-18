@@ -101,11 +101,9 @@
 
 </div>
 
-<h4> tools_I_use organized</h4>
-
-class AboutMe:
-    name = "Rawan Husseiny"
-    role = ["UI/UX Designer", "Front-End Developer" ]
+<div> 
+<h2> tools_I_use organized</h2>
+<h3>Skills:</h3>
 
     skills = {
         "UI/UX": {
