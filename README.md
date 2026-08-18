@@ -4,7 +4,7 @@
 <div align="Center">
   <p>
     <strong>
-      <font size="6">Hello there! I'm Rawan Husseiny</font>
+      <font size="32">Hello there! I'm Rawan Husseiny</font>
     </strong>
   </p>
 </div>
