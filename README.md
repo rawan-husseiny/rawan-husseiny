@@ -9,7 +9,7 @@
   </p>
 </div>
 
- <p align="Center">
+ <p align="center">
   <h2 >🎨 UI/UX Designer | 💻 Web Developer</h2>
 </p>
 
