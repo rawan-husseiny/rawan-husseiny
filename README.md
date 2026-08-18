@@ -113,7 +113,7 @@ class AboutMe:
 ```
 
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/rawan-husseiny">
 
@@ -121,7 +121,7 @@ class AboutMe:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan-husseiny&layout=compact&theme=transparent" width="40%">
 
-</a>
+</a> -->
 
 <br><br>
 
