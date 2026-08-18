@@ -46,46 +46,67 @@
 
 <br>
 
-<h2 align="left" id="rawan-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+python
+# tools_I_use organized
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /></a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /></a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /></a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#rawan-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
-      <br>Git
-    </td>
-  </tr>
-</table>
+class AboutMe:
+    name = "Rawan Husseiny"
+    role = ["UI/UX Designer", "Front-End Developer", "Data Engineer"]
+
+    skills = {
+        "UI/UX": {
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping",
+            "UX Research",
+            "Usability Testing",
+            "Design Systems"
+        },
+
+        "Front-End": {
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap"
+        },
+
+        "Data Analysis": {
+            "Excel",
+            "Tableau",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+        },
+
+        "Programming": {
+            "Python",
+            "C++",
+            "Java"
+        },
+
+        "Backend & Database": {
+            "PHP",
+            "MySQL"
+        },
+
+        "Networking & Linux": {
+            "Computer Networks",
+            "Linux Administration",
+            "Linux Command Line",
+            "Bash"
+        },
+
+        "Tools": {
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Photoshop"
+        }
+    }
+
 
 <br>
 
