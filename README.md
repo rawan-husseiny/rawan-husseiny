@@ -1,7 +1,7 @@
  
  <!--<h1 align="Center" id="rawan-title">:wave:Hello there! I'm Rawan Husseiny </h1>-->
 <div align="center">
-  <div style="font-size: 28px; font-weight: bold;">
+  <div style="font-size: 98px; font-weight: bold;">
     Hello there! I'm Rawan Husseiny 
   </div>
 </div>
