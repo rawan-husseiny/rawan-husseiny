@@ -174,3 +174,22 @@
 
 </div>
 
+
+<br>
+
+<h2 align="left">📬 Contact Me</h2>
+
+<div align="center">
+
+<a href="mailto:rawanhusseiny72@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
