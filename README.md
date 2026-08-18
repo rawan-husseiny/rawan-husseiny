@@ -1,7 +1,7 @@
  
 <h1 align="Center" id="rawan-title">:wave:Hello there! I'm Rawan Husseiny </h1>
 
- <h3 align="center" >🎨 UI/UX Designer | 💻 Web Developer</h3>
+ <h3 align="center" >🎨 UI/UX Designer | 💻 Front_End Developer</h3>
 
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -176,16 +176,14 @@
 
 
 <br>
-
-<h2 align="left">📬 Contact Me</h2>
+<hr>
+<h3 align="left">📬 Contact Me</h3>
 
 <div align="center">
 
 <a href="mailto:rawanhusseiny72@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
