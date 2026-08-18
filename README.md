@@ -1,16 +1,19 @@
  
-<h1 align="Center" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
+<!-- <h1 align="Center" id="rawan-title">:wave: </h1> -->
 
-<!-- <p align="Center">
-  <h2 >🎨 UI/UX Designer | 💻 Web Developer</h2>
-</p> -->
 <div align="Center">
   <p>
     <strong>
-      <font size="5">🎨 UI/UX Designer | 💻 Web Developer</font>
+      <font size="6">Hello there! I'm Rawan Husseiny</font>
     </strong>
   </p>
 </div>
+
+ <p align="Center">
+  <h2 >🎨 UI/UX Designer | 💻 Web Developer</h2>
+</p>
+
+
 
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
