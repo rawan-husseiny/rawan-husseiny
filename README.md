@@ -2,7 +2,7 @@
 <h1 align="Center" id="rawan-title">:wave:Hello there! I'm Rawan Husseiny </h1>
 
 
- <h2 align="center">🎨 UI/UX Designer | 💻 Web Developer</h2>
+ <h3 align="center">🎨 UI/UX Designer | 💻 Web Developer</h3>
 
 <hr>
 
