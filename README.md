@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
 <p>
-  <font size="32"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
+  <font size="120"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
 </p>
 
-<p><font size="32">
+<p><font size="120">
   <b>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</b>
 </p>
  
