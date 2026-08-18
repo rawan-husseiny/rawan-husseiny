@@ -83,6 +83,16 @@
 
 
 
+
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Currently improving my skills through projects, learning, and hands-on practice.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
 <hr>
   <div align="center">
 
@@ -101,12 +111,3 @@
 </p>
 
 </div>
-</table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Currently improving my skills through projects, learning, and hands-on practice.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
