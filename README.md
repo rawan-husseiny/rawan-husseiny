@@ -91,10 +91,21 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Currently improving my skills through projects, learning, and hands-on practice.
+> Turning ideas into designs, designs into code, and data into insights.
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<div align="center">
+
+### ✨ Build • Learn • Improve
+
+<p>
+  🎨 UI/UX &nbsp;&nbsp; 💻 Web Development &nbsp;&nbsp; 📊 Data Analysis
+</p>
+
+<p>
+  <i>Learning by building real-world projects 🚀</i>
+</p>
+
+</div>
 python
 # tools_I_use organized
 
