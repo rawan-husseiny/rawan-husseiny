@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
-<h1>👋 Hello there! I'm Rawan Husseiny</h1>
+<!-- <h1>👋 Hello there! I'm Rawan Husseiny</h1> -->
+<h1 style="border-bottom: none;">👋 Hello there! I'm Rawan Husseiny</h1>
 
 <h3>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</h3>
 
