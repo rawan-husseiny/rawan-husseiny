@@ -93,7 +93,7 @@ python
 
 class AboutMe:
     name = "Rawan Husseiny"
-    role = ["UI/UX Designer", "Front-End Developer", "Data Engineer"]
+    role = ["UI/UX Designer", "Front-End Developer" ]
 
     skills = {
         "UI/UX": {
