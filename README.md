@@ -1,15 +1,15 @@
  
-<!-- <h1 align="Center" id="rawan-title">:wave: </h1> -->
+ <h1 align="Center" id="rawan-title">:wave: </h1>
 
-<div align="Center">
+<!-- <div align="Center">
   <p>
     <strong>
       <font size="32">Hello there! I'm Rawan Husseiny</font>
     </strong>
   </p>
-</div>
+</div> -->
 
- <p align="center">
+ <p align="Center">
   <h2 >🎨 UI/UX Designer | 💻 Web Developer</h2>
 </p>
 
