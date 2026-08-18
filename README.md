@@ -37,7 +37,7 @@
 - :speech_balloon: &nbsp;I like to talk about **UI/UX, Front-End, Data and Technology**
 - :book: &nbsp;Learn more about my projects on my **GitHub**
 - :mailbox: &nbsp;Ask me anything on my **issues page**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">LinkedIn</a>
 
 <br>
 
