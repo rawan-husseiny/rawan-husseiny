@@ -88,10 +88,62 @@
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
+python
+# tools_I_use organized
 
-```text
-  UI/UX Design       ┤████████████████████████████████████████████████
-  Front-End          ┤████████████████████████████████████████
-  Data Analysis      ┤██████████████████████████████
-  Networking         ┤████████████████████████
-  Linux Administration ┤██████████████████████
+class AboutMe:
+    name = "Rawan Husseiny"
+    role = ["UI/UX Designer", "Front-End Developer", "Data Engineer"]
+
+    skills = {
+        "UI/UX": {
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping",
+            "UX Research",
+            "Usability Testing",
+            "Design Systems"
+        },
+
+        "Front-End": {
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap"
+        },
+
+        "Data Analysis": {
+            "Excel",
+            "Tableau",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+        },
+
+        "Programming": {
+            "Python",
+            "C++",
+            "Java"
+        },
+
+        "Backend & Database": {
+            "PHP",
+            "MySQL"
+        },
+
+        "Networking & Linux": {
+            "Computer Networks",
+            "Linux Administration",
+            "Linux Command Line",
+            "Bash"
+        },
+
+        "Tools": {
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Photoshop"
+        }
+    }
