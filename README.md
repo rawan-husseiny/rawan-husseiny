@@ -113,15 +113,7 @@ class AboutMe:
 ```
 
 
-<!-- <div align="center">
 
-<a href="https://github.com/rawan-husseiny">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan-husseiny&layout=compact&theme=transparent" width="40%">
-
-</a> -->
 
 <br><br>
 
