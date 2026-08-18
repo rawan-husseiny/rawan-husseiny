@@ -147,3 +147,23 @@ class AboutMe:
             "Photoshop"
         }
     }
+
+    ### ✨ Code, Design & Data Cycle
+<hr>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" width="8%" alt="Design"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Personal%20Computer.png" width="8%" alt="Development"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="8%" alt="Data"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="8%" alt="Learning"/>
+
+<br>
+
+*Design → Develop → Analyze → Learn → Repeat 🔄*
