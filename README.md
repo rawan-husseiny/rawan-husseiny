@@ -93,17 +93,11 @@
 
 > Turning ideas into designs, designs into code, and data into insights.
 
-<div align="center">
+<div align="leftr">
 
 ### ✨ Build • Learn • Improve
 
-<p>
-  🎨 UI/UX &nbsp;&nbsp; 💻 Web Development &nbsp;&nbsp; 📊 Data Analysis
-</p>
-
-<p>
-  <i>Learning by building real-world projects 🚀</i>
-</p>
+<br><hr>
 
 </div>
 python
