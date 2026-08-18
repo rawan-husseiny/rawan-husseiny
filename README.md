@@ -28,7 +28,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
-<a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a>
+<!-- <a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a> -->
 
 - :art: &nbsp;I'm passionate about **UI/UX Design**
 - :computer: &nbsp;I'm currently developing my **Front-End Development** skills
