@@ -1,7 +1,7 @@
  
 <h1 align="Center" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
 
-<p align="left">
+<p align="center">
   <h2>🎨 UI/UX Designer | 💻 Web Developer</h2>
 </p>
 
@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-
+<br>
 
 <!-- <a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a> -->
 
