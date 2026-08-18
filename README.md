@@ -1,5 +1,5 @@
  
-<h1 align="left" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
+<h1 align="Center" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
 
 <p align="left">
   <h2>🎨 UI/UX Designer | 💻 Web Developer</h2>
