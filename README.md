@@ -103,7 +103,7 @@
 </div>
 
 <div> 
-<h3> tools_I_use organized</h3>
+<h3> tools_I_used</h3>
 <h3>Skills:</h3>
 
         "UI/UX": {
