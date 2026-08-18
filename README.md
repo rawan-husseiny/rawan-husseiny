@@ -5,13 +5,15 @@
 
 <h3>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</h3> -->
 
-<div align="center">
+<p>
+  <font size="6"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
+</p>
 
-<h1>👋 Hello there! I'm Rawan Husseiny</h1>
+<p>
+  <b>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</b>
+</p>
 
-<h3>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</h3>
 
-</div>
 
 </div>
 
