@@ -2,7 +2,7 @@
 <h1 align="left" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
 
 <p align="left">
-  <b>🎨 UI/UX Designer | 💻 Web Developer</b>
+  <h2>🎨 UI/UX Designer | 💻 Web Developer</h2>
 </p>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
