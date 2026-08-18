@@ -5,9 +5,9 @@
   <h2>🎨 UI/UX Designer | 💻 Web Developer</h2>
 </p>
 
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
 
 
 <!-- <a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a> -->
@@ -44,35 +45,6 @@
 - :mailbox: &nbsp;Ask me anything on my **issues page**
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">LinkedIn</a>
 
-<br>
-<h1 align="left" id="rawan-title">:wave: Hello there! I'm Rawan Husseiny</h1>
-
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
 <!-- <a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a> -->
@@ -215,96 +187,3 @@ class AboutMe:
 
 </div>
 
-python
-# tools_I_use organized
-
-class AboutMe:
-    name = "Rawan Husseiny"
-    role = ["UI/UX Designer", "Front-End Developer", "Data Engineer"]
-
-    skills = {
-        "UI/UX": {
-            "Figma",
-            "Adobe XD",
-            "Wireframing",
-            "Prototyping",
-            "UX Research",
-            "Usability Testing",
-            "Design Systems"
-        },
-
-        "Front-End": {
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap"
-        },
-
-        "Data Analysis": {
-            "Excel",
-            "Tableau",
-            "NumPy",
-            "Pandas",
-            "Matplotlib",
-            "Seaborn"
-        },
-
-        "Programming": {
-            "Python",
-            "C++",
-            "Java"
-        },
-
-        "Backend & Database": {
-            "PHP",
-            "MySQL"
-        },
-
-        "Networking & Linux": {
-            "Computer Networks",
-            "Linux Administration",
-            "Linux Command Line",
-            "Bash"
-        },
-
-        "Tools": {
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Photoshop"
-        }
-    }
-
-
-<br>
-
-<!-- ==================== SKILLS ==================== -->
-
-<!-- ==================== CODING ACTIVITY ==================== -->
-
-<h2 align="left">Coding Activity</h2>
-
-> Currently improving my skills through projects, learning, and hands-on practice.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-<hr>
-
-<div align="center">
-
-### ✨ Code, Design & Data Cycle
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" width="70" alt="Design"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="70" alt="Data"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="70" alt="Learning"/>
-</p>
-
-<p>
-  <i>Design → Develop → Analyze → Learn → Repeat 🔄</i>
-</p>
-
-</div>
