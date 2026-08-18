@@ -46,18 +46,6 @@
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">LinkedIn</a>
 
 
-
-<!-- <a href="#rawan-title"><img src="https://github-readme-stats-transparent.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" alt="Rawan Husseiny" align="right" /></a> -->
-
-- :art: &nbsp;I'm passionate about **UI/UX Design**
-- :computer: &nbsp;I'm currently developing my **Front-End Development** skills
-- :bar_chart: &nbsp;I'm interested in **Data Analysis and Data Visualization**
-- :seedling: &nbsp;I'm currently learning **Data Engineering**
-- :speech_balloon: &nbsp;I like to talk about **UI/UX, Front-End, Data and Technology**
-- :book: &nbsp;Learn more about my projects on my **GitHub**
-- :mailbox: &nbsp;Ask me anything on my **issues page**
-- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">LinkedIn</a>
-
 <br>
 
 <h2 align="left" id="rawan-tech">Favorite Tech</h2>
@@ -167,7 +155,6 @@ class AboutMe:
         }
     }
 
-    ### ✨ Code, Design & Data Cycle
 <hr>
 <div align="center">
 
