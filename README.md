@@ -37,6 +37,20 @@
 
 ---
 
+
+
+* 🎨   I'm passionate about **UI/UX Design** and creating user-friendly experiences.
+* 💻   I'm currently developing my **Front-End Development** skills.
+* 📊   I'm interested in **Data Analysis, Data Visualization, and Data Engineering**.
+* 🖌️   I enjoy working with **Figma, Adobe XD, Wireframes, and Prototypes**.
+* 🌐   I'm learning **Computer Networking and Linux Administration**.
+* 🚀   I love learning new technologies and building **real-world projects**.
+* 📚   I'm constantly improving my skills through **practice and hands-on projects**.
+* 💼   Find me on **[LinkedIn](https://www.linkedin.com/in/rawan-husseiny-756271342/)**.
+* 📧   Contact me at **[rawanhusseiny72@gmail.com](mailto:rawanhusseiny72@gmail.com)**.
+
+<br>
+
 ```python
 # tools_I_use organized
 
@@ -98,17 +112,6 @@ class AboutMe:
     }
 ```
 
-* 🎨   I'm passionate about **UI/UX Design** and creating user-friendly experiences.
-* 💻   I'm currently developing my **Front-End Development** skills.
-* 📊   I'm interested in **Data Analysis, Data Visualization, and Data Engineering**.
-* 🖌️   I enjoy working with **Figma, Adobe XD, Wireframes, and Prototypes**.
-* 🌐   I'm learning **Computer Networking and Linux Administration**.
-* 🚀   I love learning new technologies and building **real-world projects**.
-* 📚   I'm constantly improving my skills through **practice and hands-on projects**.
-* 💼   Find me on **[LinkedIn](https://www.linkedin.com/in/rawan-husseiny-756271342/)**.
-* 📧   Contact me at **[rawanhusseiny72@gmail.com](mailto:rawanhusseiny72@gmail.com)**.
-
-<br>
 
 <div align="center">
 
