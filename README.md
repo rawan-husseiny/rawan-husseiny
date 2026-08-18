@@ -102,10 +102,9 @@
 </div>
 
 <div> 
-<h2> tools_I_use organized</h2>
+<h3> tools_I_use organized</h3>
 <h3>Skills:</h3>
 
-    skills = {
         "UI/UX": {
             "Figma",
             "Adobe XD",
@@ -156,7 +155,7 @@
             "VS Code",
             "Photoshop"
         }
-    }
+   </div>
 
 <hr>
 <div align="center">
