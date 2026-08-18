@@ -1,23 +1,13 @@
 <div align="center" width="50">
 
-<!-- <p>
+<p>
   <font size="32"><b>👋 Hello there! I'm Rawan Husseiny</b></font>
 </p>
 
-<p>
+<p><font size="32">
   <b>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</b>
 </p>
- -->
-
- <div style="font-size: 32px; font-weight: bold;">
-  👋 Hello there! I'm Rawan Husseiny
-</div>
-
-<br>
-
-<div style="font-size: 20px; font-weight: bold;">
-  🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer
-</div>
+ 
 
 
 </div>
