@@ -1,87 +1,149 @@
-<div align="center">
+<div align="center" width="50">
 
-# 👋 Hello there! I'm Rawan Husseiny
+<h1>👋 Hello there! I'm Rawan Husseiny</h1>
 
-### 🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer
+<h3>🎨 UI/UX Designer | 💻 Front-End Developer | 📊 Data Engineer</h3>
 
-<a href="https://www.linkedin.com/in/rawan-husseiny-756271342/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:rawanhusseiny72@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 </div>
 
+<hr>
+
+![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat\&logo=adobe-xd\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat\&logo=adobe-photoshop\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logo=python\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+
 ---
 
-## 🎨 UI/UX Design
+```python
+# tools_I_use organized
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%20Design-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX%20Design-845EF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireframing-20C997?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prototyping-F59F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX%20Research-339AF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Usability%20Testing-E64980?style=for-the-badge"/>
-</p>
+class AboutMe:
+    name = "Rawan Husseiny"
+    role = ["UI/UX Designer", "Front-End Developer", "Data Engineer"]
 
-## 💻 Front-End Development
+    skills = {
+        "UI/UX": {
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping",
+            "UX Research",
+            "Usability Testing",
+            "Design Systems"
+        },
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF922B?style=for-the-badge"/>
-</p>
+        "Front-End": {
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap"
+        },
 
-## 📊 Data Analysis & Visualization
+        "Data Analysis": {
+            "Excel",
+            "Tableau",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+        },
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+        "Programming": {
+            "Python",
+            "C++",
+            "Java"
+        },
 
-## 🌐 Networking & Linux
+        "Backend & Database": {
+            "PHP",
+            "MySQL"
+        },
 
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Networks-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-0D6EFD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux%20Administration-1793D1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Administration-6C757D?style=for-the-badge"/>
-</p>
+        "Networking & Linux": {
+            "Computer Networks",
+            "Linux Administration",
+            "Linux Command Line",
+            "Bash"
+        },
 
-## 🗄️ Backend & Database
+        "Tools": {
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Photoshop"
+        }
+    }
+```
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+* 🎨   I'm passionate about **UI/UX Design** and creating user-friendly experiences.
+* 💻   I'm currently developing my **Front-End Development** skills.
+* 📊   I'm interested in **Data Analysis, Data Visualization, and Data Engineering**.
+* 🖌️   I enjoy working with **Figma, Adobe XD, Wireframes, and Prototypes**.
+* 🌐   I'm learning **Computer Networking and Linux Administration**.
+* 🚀   I love learning new technologies and building **real-world projects**.
+* 📚   I'm constantly improving my skills through **practice and hands-on projects**.
+* 💼   Find me on **[LinkedIn](https://www.linkedin.com/in/rawan-husseiny-756271342/)**.
+* 📧   Contact me at **[rawanhusseiny72@gmail.com](mailto:rawanhusseiny72@gmail.com)**.
 
-## 👩‍💻 Programming
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<div align="center">
 
-## 🔧 Tools
+<a href="https://github.com/rawan-husseiny">
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rawan-husseiny&show_icons=true&theme=transparent" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan-husseiny&layout=compact&theme=transparent" width="40%">
+
+</a>
+
+<br><br>
+
+<hr>
+
+### ✨ Code, Design & Data Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" width="8%" alt="Design"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Personal%20Computer.png" width="8%" alt="Development"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="8%" alt="Data"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="8%" alt="Learning"/>
+
+<br>
+
+**Design → Develop → Analyze → Learn → Repeat 🔄**
+
+</div>
