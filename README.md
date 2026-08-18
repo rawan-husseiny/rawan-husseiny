@@ -4,8 +4,6 @@
 
  <h3 align="center" >🎨 UI/UX Designer | 💻 Web Developer</h3>
 
-<hr>
-
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
